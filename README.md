@@ -15,7 +15,7 @@ Application provides:
 ## Illustrations
 
 ![app screen](./png/mgame1.png)
-![app screen](./png/mgame2.PNG)
+![app screen](./png/mgame2.png)
 
 ## Technologies
 
